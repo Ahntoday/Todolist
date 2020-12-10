@@ -1,0 +1,22 @@
+.Footer_Container {
+    padding-left: 14rem;
+    padding-bottom: 0%;
+}
+
+.DeleteBtn{
+    width: 91px;
+    height: 38px;
+    margin: 65px 0 0 42px;
+    padding: 11px 14px 11px 15px;
+    border-radius: 19px;
+    border: none;
+    background-color: #f3e084;
+    font-family: TmoneyRoundWind;
+    font-size: 16px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #ffffff;
+}
